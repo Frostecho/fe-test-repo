@@ -9,4 +9,5 @@ echo "Hello!!!";
 echo "Bar";
 
 echo "ez itt egy módosítás";
-echo "ez meg itt egy másik";
+
+echo "ezt is hozzáadom....";
