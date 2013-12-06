@@ -7,4 +7,6 @@ echo "Bazzzzz <br />";
 echo session_id();
 echo "Hello!!!";
 echo "Bar";
-echo "123";
+
+echo "ez itt egy módosítás";
+echo "ez meg itt egy másik";
