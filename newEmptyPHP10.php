@@ -7,3 +7,4 @@ echo "Bazzzzz <br />";
 echo session_id();
 echo "Hello!!!";
 echo "Bar";
+echo "123";
